@@ -1,7 +1,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:hit="http://schemas.android.com/apk/lib/jp.hitting.android.view"
     xmlns:tools="http://schemas.android.com/tools"
-    xmlns:app="http://schemas.android.com/apk/res/jp.hitting.android.view.sample"
+    xmlns:hit="http://schemas.android.com/apk/res/jp.hitting.android.view.sample"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="jp.hitting.android.view.sample.MainActivity" >
@@ -32,7 +31,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_marginBottom="10dp"
-        app:column_num="3"
-        app:color="@android:color/white" />
+        hit:column_num="3"
+        hit:color="@android:color/white" />
 
 </RelativeLayout>
