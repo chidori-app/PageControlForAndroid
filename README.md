@@ -3,7 +3,7 @@ PageControlForAndroid
 
 PageControl is an indicator of current page.
 
-![Screen Shot](https://raw.githubusercontent.com/hitting1024/PageControl/master/imgs/ss.png)
+![Screen Shot](https://raw.githubusercontent.com/hitting1024/PageControlForAndroid/master/imgs/ss.png)
 
 --------
 The MIT License (MIT)
